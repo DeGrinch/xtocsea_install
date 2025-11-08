@@ -55,7 +55,7 @@ set -euo pipefail
 ###############################################################################
 
 # ---------- Configurable defaults ----------
-DEFAULT_REPO="https://github.com/CMO-GAMING/xtocsea"   # You can change this
+DEFAULT_REPO="https://github.com/DeGrinch/xtocsea"   # You can change this
 SYSTEM_USER="xtocsea"
 ROOT="/home/${SYSTEM_USER}"
 SSH_DIR="${ROOT}/.ssh"
